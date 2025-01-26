@@ -1,6 +1,4 @@
-```
-ens.c
-```
+***ens.c***
 
 A very simple C program for encrypting and decrypting text files using a key.
 
@@ -24,9 +22,7 @@ Failure to decrypt the file using a wrong passphrase
 ./ens mykey2 < encrypted_secret > decrypted_secret_fail
 ```
 
-```
-passal.c
-```
+***passal.c***
 
 A simple program for generating strong passwords and verify specific password requirements.
 
